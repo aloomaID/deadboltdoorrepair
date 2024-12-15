@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://deadboltdoorrepair.xyz/sitemap_index.xml
